@@ -3,7 +3,9 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/17f8a314-8f5a-47d2-919f-d689cc2d036d" />        
 
-<img width="2551" height="1038" alt="image" src="https://github.com/user-attachments/assets/ed3f71a0-a5e0-4b41-809d-f268ccb68df7" />            
+<img width="2551" height="1038" alt="image" src="https://github.com/user-attachments/assets/ed3f71a0-a5e0-4b41-809d-f268ccb68df7" />      
+
+<img width="2547" height="1038" alt="image" src="https://github.com/user-attachments/assets/ac03e89b-a717-409d-be4b-4dbc04946ea8" />      
 
 Este proyecto implementa una API propia en Spring Boot que actúa como Proxy / Gateway hacia una API publica en Internet .
 
