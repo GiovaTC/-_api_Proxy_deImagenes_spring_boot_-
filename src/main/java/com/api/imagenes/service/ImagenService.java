@@ -29,4 +29,4 @@ public class ImagenService {
 
         return restTemplate.getForObject(url, Imagen.class);
     }
-}   
+}
